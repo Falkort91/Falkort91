@@ -7,7 +7,7 @@ Je construis des applications web full-stack : API et logique métier côté bac
 **Stack favorite** NestJS · Nuxt · TypeScript · PostgreSQL · Tailwind CSS
 ---
 
-#### Stack
+#### **Stack**
 
 **Langages:** TypeScript · JavaScript · PHP · HTML5 · CSS
 
