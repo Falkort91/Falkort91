@@ -3,26 +3,27 @@
 Développeur Full-Stack junior
 
 Je construis des applications web full-stack : API et logique métier côté backend, interfaces soignées côté frontend. Brevet d'enseignement supérieur Web Developer (EAFC Fléron-Charlemagne).
+
 **Stack favorite** NestJS · Nuxt · TypeScript · PostgreSQL · Tailwind CSS
 ---
 
 #### Stack
 
-**Langages** TypeScript · JavaScript · PHP · HTML5 · CSS
+**Langages:** TypeScript · JavaScript · PHP · HTML5 · CSS
 
-**Backend** NestJS · Node.js · Laravel
+**Backend:** NestJS · Node.js · Laravel
 
-**Frontend** Nuxt · Vue.js · React · Pinia · Tailwind CSS · Vite
+**Frontend:** Nuxt · Vue.js · React · Pinia · Tailwind CSS · Vite
 
-**Bases de données & ORM** PostgreSQL · MySQL · TypeORM
+**Bases de données & ORM:** PostgreSQL · MySQL · TypeORM
 
-**Auth** JWT · Passport.js · Keycloak
+**Auth:** JWT · Passport.js · Keycloak
 
-**Tests** Jest · Vitest
+**Tests:** Jest · Vitest
 
-**IA** Claude Code · MCP · Gemini API
+**IA:** Claude Code · MCP · Gemini API
 
-**Outils** Git · Docker · Figma
+**Outils:** Git · Docker · Figma
 
 ---
 
