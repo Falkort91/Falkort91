@@ -24,7 +24,6 @@ Stack favorite NestJS · Nuxt · TypeScript · PostgreSQL · Tailwind CSS
 **IA:** Claude Code · MCP · Gemini API
 
 **Outils:** Git · Docker · Figma
-
 ---
 
 #### Projets
