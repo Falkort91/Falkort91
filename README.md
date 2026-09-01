@@ -4,10 +4,10 @@ Développeur Full-Stack junior
 
 Je construis des applications web full-stack : API et logique métier côté backend, interfaces soignées côté frontend. Brevet d'enseignement supérieur Web Developer (EAFC Fléron-Charlemagne).
 
-Stack favorite NestJS · Nuxt · TypeScript · PostgreSQL · Tailwind CSS
----
+**Stack favorite:** NestJS · Nuxt · TypeScript · PostgreSQL · Tailwind CSS
 
 #### Stack
+---
 
 **Langages:** TypeScript · JavaScript · PHP · HTML5 · CSS
 
@@ -24,9 +24,9 @@ Stack favorite NestJS · Nuxt · TypeScript · PostgreSQL · Tailwind CSS
 **IA:** Claude Code · MCP · Gemini API
 
 **Outils:** Git · Docker · Figma
----
 
 #### Projets
+---
 
 - **[Toryu](https://portfolio-loic-leclercq.vercel.app/projects/toryu)** — plateforme sociale de lecture et partage de mangas amateurs (NestJS, Nuxt 4, PostgreSQL, Docker). En développement actif.
 - **[Questy](https://portfolio-loic-leclercq.vercel.app/projects/questy)** — mon travail de fin d'études : gamification sportive, avatar RPG, défis générés par IA (NestJS, Nuxt, PostgreSQL, Gemini API).
