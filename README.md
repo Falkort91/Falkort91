@@ -4,10 +4,10 @@ Développeur Full-Stack junior
 
 Je construis des applications web full-stack : API et logique métier côté backend, interfaces soignées côté frontend. Brevet d'enseignement supérieur Web Developer (EAFC Fléron-Charlemagne).
 
-**Stack favorite** NestJS · Nuxt · TypeScript · PostgreSQL · Tailwind CSS
+Stack favorite NestJS · Nuxt · TypeScript · PostgreSQL · Tailwind CSS
 ---
 
-#### **Stack**
+#### Stack
 
 **Langages:** TypeScript · JavaScript · PHP · HTML5 · CSS
 
