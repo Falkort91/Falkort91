@@ -9,12 +9,19 @@ Je construis des applications web full-stack : API et logique métier côté bac
 #### Stack
 
 **Langages** TypeScript · JavaScript · PHP · HTML5 · CSS
+
 **Backend** NestJS · Node.js · Laravel
+
 **Frontend** Nuxt · Vue.js · React · Pinia · Tailwind CSS · Vite
+
 **Bases de données & ORM** PostgreSQL · MySQL · TypeORM
+
 **Auth** JWT · Passport.js · Keycloak
+
 **Tests** Jest · Vitest
+
 **IA** Claude Code · MCP · Gemini API
+
 **Outils** Git · Docker · Figma
 
 ---
