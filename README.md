@@ -20,7 +20,7 @@ Je construis des applications web full-stack : API et logique métier côté bac
 
 **Tests:** Jest · Vitest
 
-**IA:** Claude Code · MCP · Gemini API
+**IA:** Claude Code · MCP
 
 **Outils:** Git · Docker · Figma
 
